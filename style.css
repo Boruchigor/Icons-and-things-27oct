@@ -1,0 +1,49 @@
+*{
+    box-sizing:border-box
+}
+.tick {
+    text-align: center;
+    text-decoration: underline wavy red;
+}
+
+.review{
+    text-shadow: 5px -7px silver;
+    text-transform: uppercase;
+    color: gray;
+}
+.fa-bitcoin{
+    color: greenyellow;
+}
+.fa-square{
+    color: tomato;
+}
+
+body {
+    background-color: #fff;
+    color: black;
+    font-size: 20px;
+}
+h1{
+    font-size: 36px;
+    color: black;
+}
+.fa-dollar-sign{
+    font-size: 24px;
+    color: gold;
+}
+.fa-cannabis{
+    font-size: 30px;
+    color: green;
+}
+.fa-wine-bottle{
+    font-size: 30px;
+    color: red;
+}
+.fa-car{
+    font-size: 30px;
+    color: blueviolet;
+}
+.fa-campground{
+    font-size: 30px;
+    color: brown;
+}
